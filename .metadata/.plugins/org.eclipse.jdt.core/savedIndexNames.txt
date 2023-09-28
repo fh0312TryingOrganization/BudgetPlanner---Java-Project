@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Francisco\Desktop\BudgetPlanner---Java-Project\.metadata\.plugins\org.eclipse.jdt.core
+2535834050.index
+3753673811.index
+1865797976.index
